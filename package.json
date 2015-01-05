@@ -1,0 +1,11 @@
+{
+  "name": "node-packages",
+  "version": "0.0.1",
+  "description": "node packages",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "gulp": "^3.8.10",
+    "gulp-less": "^2.0.1"
+  },
+  "author": "ZhangJunkai"
+}
