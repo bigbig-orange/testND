@@ -40,4 +40,4 @@ var renderIndex = function(response, postData) {
 exports.getIcon = getIcon;
 exports.start = start;
 exports.upload = upload;
-exports.renderIndex = renderInde;
+exports.renderIndex = renderIndex;
